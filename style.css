@@ -28,7 +28,7 @@ body{
     50% { border-color: orange }
 
 }
-.about,.tech,.exp,.edu,.lic{
+.about,.tech,.exp,.edu,.lic,.con{
     color:rgb(233, 43, 91);
     padding: 25px;
     
